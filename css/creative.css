@@ -414,3 +414,17 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #222222;
 }
+
+#instafeed{
+  list-style:none  
+}
+#instafeed li{
+  float:left;
+  width:200px;
+  height:200px;
+  margin:10px
+}
+#instafeed li img{
+  max-width:100%;
+  max-height:100%;
+}
