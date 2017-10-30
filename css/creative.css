@@ -54,6 +54,7 @@ p {
 }
 section {
   padding: 100px 0;
+  background-image: url('../img/header.jpg')
 }
 aside {
   padding: 50px 0;
@@ -155,7 +156,7 @@ header {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: url('../img/portfolio/thumbnails/jonny-5.jpg');
+  background-image: url('../img/jonny-5.jpg');
   text-align: center;
   color: white;
 }
