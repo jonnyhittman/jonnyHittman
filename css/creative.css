@@ -54,7 +54,7 @@ p {
 }
 section {
   padding: 100px 0;
-  background-image: url('../img/header.jpg')
+  background-image: url('../img/jonny-1.jpg')
 }
 aside {
   padding: 50px 0;
@@ -156,15 +156,15 @@ header {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: url('../img/jonny-5.jpg');
+  /*background-image: url('../img/jonny-5.jpg');*/
   text-align: center;
   color: white;
 }
-header .header-content {
+header .ski-image {
   position: relative;
   text-align: center;
-  padding: 100px 15px 100px;
-  width: 100%;
+/*  padding: 100px 15px 100px;
+*/  width: 100%;
 }
 header .header-content .header-content-inner h1 {
   font-weight: 700;
